@@ -1,0 +1,13 @@
+#imageContainer {
+    max-width: 680px;
+}
+
+
+.img-fluid {
+width: 100%;
+height: auto;
+}
+
+.hidden {
+    display: none;
+}
